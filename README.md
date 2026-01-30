@@ -5,12 +5,16 @@ This repository contains my **second hands-on Azure project**, created to get co
 The application itself is intentionally simple. The real learning comes from deploying and operating it correctly in a real Azure environment.
 
 ---
+**Live Site**
 <img width="681" height="285" alt="Screenshot 2026-01-29 214453" src="https://github.com/user-attachments/assets/f7152556-51d1-4a1f-84b0-5fd836261691" /><br>
 
+**Deployment Info**
 <img width="1616" height="498" alt="Screenshot 2026-01-29 220125" src="https://github.com/user-attachments/assets/8ffe76cc-0c64-4ed8-83b4-b38872c48f2a" /><br>
 
+**ENV Variables**
 <img width="1557" height="403" alt="Screenshot 2026-01-29 214212" src="https://github.com/user-attachments/assets/42d54cd4-2346-4da6-b30f-666877ceaa91" /><br>
 
+**Health Check**
 <img width="1362" height="577" alt="Screenshot 2026-01-29 215637" src="https://github.com/user-attachments/assets/1776546c-ff97-46f2-80ac-611f52703d7b" /><br>
 
 
