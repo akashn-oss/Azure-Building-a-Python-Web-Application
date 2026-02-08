@@ -94,3 +94,5 @@ Fetches metadata and status information for an Azure Web App.
 `--resource-group Static_WebCLI`: Resource group where the app is deployed.
 `-o table`: Formats output as a table for readability.
 <img width="1886" height="239" alt="Screenshot 2026-02-07 232832" src="https://github.com/user-attachments/assets/1c6e1ddc-596f-4c7e-88fb-d616061f1a57" />
+
+<img width="575" height="271" alt="Screenshot 2026-02-07 232902" src="https://github.com/user-attachments/assets/dc26082b-aeed-42a3-8808-b9c8bb982ba3" />
